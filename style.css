@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 100px;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-top: 5px;
+
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 50px;
+}
+h1{
+    font-weight: bold;
+    text-shadow: 2px 2px 5px royalblue;
+}
